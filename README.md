@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Zishan Sheikh, a passionate full-stack web developer and technology enthusiast. With a strong background in web development and design, I love bringing ideas to life through elegant and functional code. I thrive on challenges and constantly seek opportunities to expand my skills and knowledge.
+### <div align="center">I'm Zishan Sheikh, full-stack web and app developer and technology enthusiast. With a strong background in web development and design, I love bringing ideas to life through elegant and functional code. I thrive on challenges and constantly seek opportunities to expand my skills and knowledge.
 
 Currently, I am the founder of Trend Stitchers, a startup focused on providing customers with a personalized clothing experience. Through my technical abilities and innovative approach, I have developed the website to meet all the needs of our users while addressing market gaps in the fashion industry.</div>  
   
