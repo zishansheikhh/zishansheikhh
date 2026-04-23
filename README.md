@@ -1,9 +1,9 @@
 
 
 ### Zishan Sheikh  
-<div align="center">
+<!-- <div align="center">
 <img src="https://imgtr.ee/images/2023/06/19/Zp0Pc.png" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">I'm Zishan Sheikh, full-stack web and app developer and technology enthusiast. With a strong background in web development and design, I love bringing ideas to life through elegant and functional code. I thrive on challenges and constantly seek opportunities to expand my skills and knowledge.
